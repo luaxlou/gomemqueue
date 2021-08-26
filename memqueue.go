@@ -1,4 +1,4 @@
-package memqueue
+package gomemqueue
 
 import (
 	"container/list"
